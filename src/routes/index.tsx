@@ -290,7 +290,8 @@ function Invite() {
           </p>
           <div className="reveal-divider mt-10 mx-auto"><GoldDivider /></div>
 
-<a
+          <div className="mt-8 flex flex-col sm:flex-row gap-4 justify-center">
+            <a
               href={`https://wa.me/${WHATSAPP_NUMBER}?text=${WHATSAPP_MSG}`}
               target="_blank"
               rel="noopener noreferrer"
