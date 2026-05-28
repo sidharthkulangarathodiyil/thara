@@ -197,7 +197,7 @@ function Invite() {
             You Are Invited To
           </p>
           <h2 className="reveal font-script text-6xl md:text-8xl text-gold-gradient text-glow mt-6 leading-tight">
-            Thara's<br />Mehendi Night
+            Thara&apos;s Mehendi Night
           </h2>
           <div className="reveal-divider mt-8 mx-auto">
             <img src={dividerImg} alt="" className="mx-auto w-72 md:w-96 opacity-90" />
